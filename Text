@@ -5,3 +5,6 @@ mkdir will
 cd will 
 git init 
 git clone //repository url//
+
+collaboration and crate repositories 
+fetch the latest from the remote repository and rebase your local branch into your updated remote branch
