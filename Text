@@ -1,1 +1,7 @@
-git.txt
+Collaboration and create repositories 
+creating a remote repository to your local machine 
+steps:
+mkdir will
+cd will 
+git init 
+git clone //repository url//
